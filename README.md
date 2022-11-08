@@ -1,4 +1,4 @@
-## OTP-Login-With-Email
+# OTP-Login-With-Email
 This Project implements 2-step verification to login system by sending One Time Passowrd (OTP) once the user has been partially verified as registered user in the first step.
 
 
